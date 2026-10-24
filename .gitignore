@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+.impeccable/
+*.tsbuildinfo
+# raw pasted originals; web copies live in public/images
+Pasted *.png
